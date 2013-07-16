@@ -75,4 +75,5 @@
 	insteadOf = "gist:"
 
 [push]
-	default = simple
+	default = matching
+	#default = simple
